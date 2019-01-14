@@ -1,13 +1,14 @@
 # AHK for Notepad++
 
-- Syntax highlighting
-- Will add more themes...
+Syntax highlighting for AutoHotKey in Notepad++
 
-Right now this works with Dracula theme. (my personal favorite)
-https://draculatheme.com/notepad-plus-plus/
+Currently supported themes:
+- Dracula (https://draculatheme.com/notepad-plus-plus/)
+- Lunar (https://forum.facepunch.com/f/gmoddev/myjf/Lunar-a-sleek-and-beautiful-theme-for-notepad/1/)
 
-If you wan't it to be compatible with your theme, just create new issue and I'll try to make it work...
 
-Must include:
-- Theme name
-- Theme link, or just paste XML
+Want your theme to be supported? Just create new issue and I'll try to make it work...
+
+Be sure to include:
+- the theme name
+- the website to the theme, or just paste XML
