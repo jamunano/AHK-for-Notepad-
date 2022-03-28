@@ -4,7 +4,7 @@ Syntax highlighting for AutoHotKey in Notepad++
 
 Currently supported themes:
 - Dracula (https://draculatheme.com/notepad-plus-plus/)
-- Lunar (https://forum.facepunch.com/f/gmoddev/myjf/Lunar-a-sleek-and-beautiful-theme-for-notepad/1/) [[[BROKEN LINK]]]
+- Lunar (https://forum.facepunch.com/t/lunar-a-sleek-and-beautiful-theme-for-notepad/119181)
 
 
 Want your theme to be supported? Just create new issue and I'll try to make it work...
